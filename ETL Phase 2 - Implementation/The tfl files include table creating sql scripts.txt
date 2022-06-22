@@ -1,0 +1,3 @@
+The tfl files include table creating sql scripts.
+
+The ods and wh database sql files record the database after data integration.
